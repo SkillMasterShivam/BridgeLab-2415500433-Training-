@@ -1,1 +1,0 @@
-# BridgeLab Training Repository
